@@ -10,13 +10,16 @@ This project involves exploring the U.S. National Oceanic and Atmospheric Admini
 The data for this assignment come in the form of a comma-separated-value file compressed via the bzip2 algorithm to reduce its size. You can download the file from the course web site:
 
 Storm Data: https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2
-There is also some documentation of the database available. Here you will find how some of the variables are constructed/defined.
 
-National Weather Service Storm Data Documentation: https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf
-National Climatic Data Center Storm Events FAQ: https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2FNCDC%20Storm%20Events-FAQ%20Page.pdf
-The events in the database start in the year 1950 and end in November 2011. In the earlier years of the database there are generally fewer events recorded, most likely due to a lack of good records. More recent years should be considered more complete.
+There is also some documentation of the database available. 
+Here you will find how some of the variables are constructed/defined.
 
-# Review criterialess 
+- National Weather Service Storm Data Documentation: https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf
+- National Climatic Data Center Storm Events FAQ: https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2FNCDC%20Storm%20Events-FAQ%20Page.pdf
+- The events in the database start in the year 1950 and end in November 2011. In the earlier years of the database there are generally fewer events recorded, most likely due to a lack of good records. More recent years should be considered more complete.
+
+# Review criteria
+
 1. Has either a (1) valid RPubs URL pointing to a data analysis document for this assignment been submitted; or (2) a complete PDF file presenting the data analysis been uploaded?
 2. Is the document written in English?
 3. Does the analysis include description and justification for any data transformations?
@@ -80,7 +83,7 @@ For this assignment you will need to publish your analysis on RPubs.com. If you 
 # NOTE: 
 If you are having trouble connecting with RPubs due to proxy-related or other issues, you can upload your final analysis document file as a PDF to Coursera instead.
 
-# Submitting Your Assignmentl
+# Submitting Your Assignment
 
 In order to submit this assignment, you must copy the RPubs URL for your completed data analysis document in to the peer assessment question.
 
